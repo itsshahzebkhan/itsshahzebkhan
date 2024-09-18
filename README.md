@@ -4,4 +4,4 @@
 # 💫 About Me:
 <img align='right' src='https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif' width='500px'>
 <br>
-🔭 Currently working on Python <br> 🌱 Exploring NumPy, Pandas and various Databases <br>💬 Ask me about myself by writing an e-mail or <br> connecting with me on Instagram.<br> ⚡ Fun fact : Recent studies show that around 70% <br> of coding jobs have nothing to do with technology at all.
+🔭 Currently working on Python. <br> 🌱 Exploring NumPy, Pandas and various Databases. <br> 💬 Ask me about myself by writing an e-mail or <br> connecting with me on Instagram. <br> ⚡ Fun fact : Recent studies show that around 70% <br> of coding jobs have nothing to do with technology at all.
